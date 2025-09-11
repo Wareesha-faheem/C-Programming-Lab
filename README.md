@@ -16,5 +16,12 @@ It covers core concepts such as:
 * PHP
 * JavaScript
 
+# Task # 6
+Following Tasks are completed: 
+- **Bold Text**
+- *Italic Text*
+- ~~Strikethrough Text~~
+- `git status`
+
 The repository is meant for learning, practice, and tracking progress in C programming.  
 > Made with ❤ by Wareesha Faheem
