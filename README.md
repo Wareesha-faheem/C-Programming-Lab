@@ -9,5 +9,12 @@ It covers core concepts such as:
 * Pointers
 * File Handling
 
+## Favorite Programming Languages
+* C
+* C++
+* Python
+* PHP
+* JavaScript
+
 The repository is meant for learning, practice, and tracking progress in C programming.  
 > Made with ❤ by Wareesha Faheem
